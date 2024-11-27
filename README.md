@@ -66,4 +66,22 @@ This is a real-time messaging web app. It has instant message delivery and real-
 
 ## Running The Project 🪄
 
-The website is currently available at: <https://streamline-chat.onrender.com/>
+The website is currently available at: <https://streamline-chat.onrender.com/> or ...
+
+**Setup .env file**
+
+PORT=...
+
+MONGO_DB_URI=...
+
+JWT_SECRET=...
+
+NODE_ENV=...
+
+**Build the app**
+
+npm run build
+
+**Start the app**
+
+npm start
