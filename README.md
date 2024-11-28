@@ -61,6 +61,9 @@ This is a real-time messaging web app. It has instant message delivery and real-
 
 ![](https://github.com/cespinozaa/chat-web-app/blob/main/gifs/texting.gif)
 
+**Online Status**
+
+![](https://github.com/cespinozaa/chat-web-app/blob/main/gifs/userstatus.gif)
 
 
 ## Learnings 📖
