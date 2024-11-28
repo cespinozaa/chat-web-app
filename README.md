@@ -1,4 +1,4 @@
-# "Streamline" Chat Web App
+# Chat Web App "Streamline"
 
 ## Intro ✨
 
@@ -22,33 +22,33 @@ This is a real-time messaging web app. It has instant message delivery and real-
 
 ## Features ⚗️
 
-1. Signup: Users are able to create a new account with their name, username, and a password
+* Signup: Users are able to create a new account with their name, username, and a password
 
-2. Login: Users are able to login once they already have an account
+* Login: Users are able to login once they already have an account
 
-3. Logout: Users can quickly logout using a button
+* Logout: Users can quickly logout using a button
 
-4. User Authentication & Authorization: Using JWT users are authenticated & authorized for login & messaging
+* User Authentication & Authorization: Using JWT users are authenticated & authorized for login & messaging
   
-5. Real-time messaging with Socket.io
+* Real-time messaging with Socket.io
  
-6. Message notifications: The receiving user sees texts pop up, shake, and make a notification sound
+* Message notifications: The receiving user sees texts pop up, shake, and make a notification sound
    
-7. Online user status: Using Socket.io & React Context, users can see who is active online in real-time
+* Online user status: Using Socket.io & React Context, users can see who is active online in real-time
   
-8. Search: Users can search for others using a simple search bar
+* Search: Users can search for others using a simple search bar
 
-9. Global state management with Zustand
+* Global state management with Zustand
 
-10. Error handling: both on server & client side
+* Error handling: both on server & client side
 
 
-## Process 🫧
-
+## Videos/Images 🫧
 
 
 ## Learnings 📖
 
+Coming into this project, I had limited knowledge of real-time data transmission, which made this an exciting and challenging learning experience. While I had prior experience building UIs for web apps and working with React, I had to dive deep into using Socket.IO to implement instant messaging and online user status functionality. This taught me how to manage real-time updates efficiently. I also expanded my understanding of authentication and authorization by implementing JWT for secure user sessions, learning how to handle tokens effectively, and guard against common errors. Additionally, I explored Zustand, a state management library I had never used before, to manage conversations seamlessly throughout the app. Overall, this project strengthened my skills in backend integration and real-time features.
 
 
 ## How can this project be improved? 🛠️
