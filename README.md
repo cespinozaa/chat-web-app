@@ -46,16 +46,21 @@ This is a real-time messaging web app. It has instant message delivery and real-
 ## Videos/Images 🫧
 
 **Signing up**
+
 ![](https://github.com/cespinozaa/chat-web-app/blob/main/gifs/signup.gif)
 
 **Logging in**
+
 ![](https://github.com/cespinozaa/chat-web-app/blob/main/gifs/login.gif)
 
 **Searching**
+
 ![](https://github.com/cespinozaa/chat-web-app/blob/main/gifs/searching.gif)
 
 **Texting**
+
 ![](https://github.com/cespinozaa/chat-web-app/blob/main/gifs/texting.gif)
+
 
 
 ## Learnings 📖
